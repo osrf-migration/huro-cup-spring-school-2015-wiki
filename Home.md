@@ -17,4 +17,8 @@ Lecture and Workshop resources
 
 Here you can find resources that will be covered in the lecture and workshops
 
+* [Lecture materials](https://bitbucket.org/osrf/fira-spring-school-2015/wiki/Lecture)
+
+* [Workshop materials](https://bitbucket.org/osrf/fira-spring-school-2015/wiki/Workshop)
+
 
