@@ -12,28 +12,53 @@
 
 ## Gazebo: 
 
-1. Follow in the [Gazebo Installation instructions](http://gazebosim.org/install)
-
-    >   **Note** Gazebo is known to work best in Ubuntu, and debian packages are provided for ease of installation. However installation in other linux flavors may be possible by manually compiling and installing from source.
+1. Follow the [Gazebo Installation instructions](http://gazebosim.org/install)
 
 1. Go through a couple of beginner tutorials on Gazebo to understand the basic features of the simulation tool:
 
     * [Getting started](http://gazebosim.org/tutorials?tut=quick_start&cat=get_started)
-    * [Build a world](http://gazebosim.org/tutorials?cat=build_world)
+    * [Build a world](http://gazebosim.org/tutorials?tut=build_world&cat=build_world)
+
+1. Install DRCSim
+
+    * [DRC Simulator Installation](http://gazebosim.org/tutorials?tut=drcsim_install&cat=drcsim) (needed for an exercise)
 
 
-# Session Two:
+# Session Two: Basics
+
+## Prerequisites:
+
+* [Creating a ROS Package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
+
+* [Building a ROS Package](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
+
+* [Understanding ROS Nodes](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes)
+
+* [Understanding ROS Topics](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
+
+* [Writing a Simple Publisher and Subscriber (C++)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29) or
+
+* [Writing a Simple Publisher and Subscriber (Python)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
 
 
+## Exercise
 
-# Session Three: ROS + Gazebo Exercise
+TBD
 
 
-Exercise:
----
+# Session Three: 
 
-Write ROS python scripts to control a robot to perform various tasks in simulation
+## ROS Visualization Tools
 
+* [Visualization and loggin](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
+
+* [Atlas MultiSense SL Head](http://gazebosim.org/tutorials?tut=drcsim_multisense&cat=drcsim)
+
+## Exercise
+
+Object Detection.
+
+Tutorial to be posted
 
 
 Useful resources:
