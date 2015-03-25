@@ -29,6 +29,8 @@ Introduction to ROS
 Introduction to Gazebo
 ==
 
+* Gazebo simulator core principles
+
 * Projects using Gazebo (videos, screenshots)
 
 * Multi-physics engine support: ODE, Bullet, DART, Simbody
@@ -45,4 +47,4 @@ Introduction to Gazebo
 
 * ROS binding (gazebo_ros_pkgs)
 
-* Examples: DRCSim
+* Examples: DRCSim, HAPTIX
