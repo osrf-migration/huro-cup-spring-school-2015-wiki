@@ -1,4 +1,3 @@
-
 Lecture (DRAFT)
 =
 
@@ -6,6 +5,7 @@ Here's an overview of the lecture to be delivered:
 
 
 Introduction to ROS
+==
 
 * Why use ROS (open source, lots of existing packages, development tools, support + documentation)
 
@@ -17,7 +17,7 @@ Introduction to ROS
 
 * TF (transform) library (http://wiki.ros.org/tf)
 
-* Catkin (http://wiki.ros.org/catkin) 
+* Catkin Build System (http://wiki.ros.org/catkin) 
 
 * ROS versions
 
@@ -27,6 +27,7 @@ Introduction to ROS
 
 
 Introduction to Gazebo
+==
 
 * Projects using Gazebo (videos, screenshots)
 
