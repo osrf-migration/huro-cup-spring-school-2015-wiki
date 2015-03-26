@@ -25,10 +25,10 @@
     * [DRC Simulator Installation](http://gazebosim.org/tutorials?tut=drcsim_install&cat=drcsim) (needed for an exercise)
 
 
-# Session Two: Basics
+# Session Two: ROS Basics
 1.5 hours
 
-## Prerequisites:
+## ROS Overview:
 
 * [Creating a ROS Package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
 
@@ -50,30 +50,33 @@
 
 * [Logging and Visualization (rviz, rqt, ROS bag)]
 
-## Exercise
-
-TBD
-
 
 # Session Three: 
 1 hour
 
-## ROS Visualization Tools
+## Introduction to Gazebo Simulator
 
-* [Visualization and loggin](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
+* [Build a robot]()
 
-* [Atlas MultiSense SL Head](http://gazebosim.org/tutorials?tut=drcsim_multisense&cat=drcsim)
+* [Build a custom world]()
 
-## Exercise
+* [Write a plugin]()
 
-Object Detection.
+* [Commandline interface]()
 
-Tutorial to be posted
 
 # Session Four: 
 1.5 hours
 
-## 
+## Robot Control and Perception Tutorials
+
+* [Simple perception with ROS, OpenCV in simulation](tbd)
+
+* [ros_control example in Gazebo](http://gazebosim.org/tutorials/?tut=ros_control)
+
+* [Visualization and loggin](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
+
+* [Atlas MultiSense SL Head](http://gazebosim.org/tutorials?tut=drcsim_multisense&cat=drcsim)
 
 
 Useful resources:
