@@ -21,8 +21,9 @@ Here you can find resources that will be covered in the lecture and workshops
 
 * [Workshop materials](https://bitbucket.org/osrf/fira-spring-school-2015/wiki/Workshop)
 
-* Workshop hardware requirements:
-     * PC with Ubuntu Trusty 14.04
-     * Nvidia or Intel GPU for camera simulation
+Workshop hardware requirements:
+
+ * PC with Ubuntu Trusty 14.04
+ * Nvidia or Intel GPU for camera simulation
 
 
