@@ -1,4 +1,4 @@
-# Session One: Installation
+# Workshop One: Installation
 1.5 hours
 
 ## ROS: 
@@ -25,7 +25,7 @@
     * [DRC Simulator Installation](http://gazebosim.org/tutorials?tut=drcsim_install&cat=drcsim) (needed for an exercise)
 
 
-# Session Two: ROS Basics
+# Workshop Two: ROS Basics
 1.5 hours
 
 ## ROS Overview:
@@ -38,43 +38,48 @@
 
 * [Understanding ROS Topics](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
 
+* [Understanding ROS Services and Parameters](http://wiki.ros.org/ROS/Tutorials/UnderstandingServicesParams)
+
 * [Writing a Simple Publisher and Subscriber (C++)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29) or
 
 * [Writing a Simple Publisher and Subscriber (Python)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
 
-* [ROS Services]
+### ROS Tools:
 
-* [Actionlib]
+* [Recording and playing back data](http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data)
+
+* [Using rqt_console and rosluanch](http://wiki.ros.org/ROS/Tutorials/UsingRqtconsoleRoslaunch)
+
+* [RViz Tutorials](http://wiki.ros.org/rviz/Tutorials)
+
+### More in-depth tutorials:
+
+* [Actionlib Tutorials ](http://wiki.ros.org/actionlib/Tutorials)
 
 * [TF Tutorials](http://wiki.ros.org/tf/Tutorials)
 
-* [Logging and Visualization (rviz, rqt, ROS bag)]
 
-
-# Session Three: 
+# Workshop Three: Gazebo
 1 hour
 
 ## Introduction to Gazebo Simulator
 
-* [Build a robot]()
+* [Build a Robot](http://gazebosim.org/tutorials?cat=build_robot)
 
-* [Build a custom world]()
+* [Build a World](http://gazebosim.org/tutorials?cat=build_world)
 
-* [Write a plugin]()
+* [Write a Plugin](http://gazebosim.org/tutorials?cat=write_plugin)
 
-* [Commandline interface]()
-
-
-# Session Four: 
+# Workshop Four: 
 1.5 hours
 
 ## Robot Control and Perception Tutorials
 
-* [Simple perception with ROS, OpenCV in simulation](tbd)
+* [Simple perception with ROS, OpenCV in simulation](tbd) (TBD)
 
 * [ros_control example in Gazebo](http://gazebosim.org/tutorials/?tut=ros_control)
 
-* [Visualization and loggin](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
+* [Atlas Visualization and Logging](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
 
 * [Atlas MultiSense SL Head](http://gazebosim.org/tutorials?tut=drcsim_multisense&cat=drcsim)
 
@@ -88,5 +93,4 @@ http://wiki.ros.org/ROS/Tutorials
 
 Gazebo tutorials:
 http://gazebosim.org/tutorials
-
 
