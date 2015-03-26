@@ -56,7 +56,7 @@
 
 * [Actionlib Tutorials ](http://wiki.ros.org/actionlib/Tutorials)
 
-* [TF Tutorials](http://wiki.ros.org/tf/Tutorials)
+* [Frame transforms libTF Tutorials](http://wiki.ros.org/tf/Tutorials)
 
 
 # Workshop Three: Gazebo
