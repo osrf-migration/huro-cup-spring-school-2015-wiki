@@ -1,4 +1,5 @@
 # Session One: Installation
+1.5 hours
 
 ## ROS: 
 
@@ -25,6 +26,7 @@
 
 
 # Session Two: Basics
+1.5 hours
 
 ## Prerequisites:
 
@@ -40,6 +42,13 @@
 
 * [Writing a Simple Publisher and Subscriber (Python)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
 
+* [ROS Services]
+
+* [Actionlib]
+
+* [TF Tutorials](http://wiki.ros.org/tf/Tutorials)
+
+* [Logging and Visualization (rviz, rqt, ROS bag)]
 
 ## Exercise
 
@@ -47,6 +56,7 @@ TBD
 
 
 # Session Three: 
+1 hour
 
 ## ROS Visualization Tools
 
@@ -60,6 +70,11 @@ Object Detection.
 
 Tutorial to be posted
 
+# Session Four: 
+1.5 hours
+
+## 
+
 
 Useful resources:
 =
@@ -70,6 +85,5 @@ http://wiki.ros.org/ROS/Tutorials
 
 Gazebo tutorials:
 http://gazebosim.org/tutorials
-
 
 
