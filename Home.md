@@ -1,4 +1,4 @@
-FIRA ROS / Gazebo Spring School 2015 
+HuroCup ROS / Gazebo Spring School 2015 
 =
 
 Welcome! This is the landing page for the ROS /Gazebo Spring School 2015 for the International Competition on Intelligent Humanoid Robotics in Kaohsiung, Taiwan.
@@ -17,9 +17,9 @@ Lecture and Workshop resources
 
 Here you can find resources that will be covered in the lecture and workshops
 
-* [Lecture materials](https://bitbucket.org/osrf/fira-spring-school-2015/wiki/Lecture)
+* [Lecture materials](https://bitbucket.org/osrf/huro-cup-spring-school-2015/wiki/Lecture)
 
-* [Workshop materials](https://bitbucket.org/osrf/fira-spring-school-2015/wiki/Workshop)
+* [Workshop materials](https://bitbucket.org/osrf/huro-cup-spring-school-2015/wiki/Workshop)
 
 Workshop hardware requirements:
 
