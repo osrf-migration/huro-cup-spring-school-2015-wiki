@@ -66,9 +66,30 @@
 
 * [Build a Robot](http://gazebosim.org/tutorials?cat=build_robot)
 
+    * Make a model
+
+    * Make a mobile robot
+
+    * Attach Meshes
+
+    * Add a sensor to a robot
+
+    * Make a simple gripper
+
+    * Attach gripper to robot
+
 * [Build a World](http://gazebosim.org/tutorials?cat=build_world)
+  
+    * Building a world
+
+    * Modifying a world
 
 * [Write a Plugin](http://gazebosim.org/tutorials?cat=write_plugin)
+
+    * Model plugins
+
+    * World plugins
+
 
 # Workshop Four: 
 1.5 hours
