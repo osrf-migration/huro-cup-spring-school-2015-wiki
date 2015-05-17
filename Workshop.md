@@ -84,6 +84,13 @@
 
     * Modifying a world
 
+
+* [Sensors](http://gazebosim.org/tutorials?cat=sensors)
+  
+    * Sensor noise model
+
+    * Camera distortion
+
 * [Write a Plugin](http://gazebosim.org/tutorials?cat=write_plugin)
 
     * Model plugins
