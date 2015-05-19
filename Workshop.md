@@ -103,8 +103,6 @@
 
 ## Robot Control and Perception Tutorials
 
-* [Simple perception with ROS, OpenCV in simulation](tbd) (TBD)
-
 * [ros_control example in Gazebo](http://gazebosim.org/tutorials/?tut=ros_control)
 
 * [Atlas Visualization and Logging](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
