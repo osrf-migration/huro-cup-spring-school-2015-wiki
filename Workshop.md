@@ -105,6 +105,8 @@
 
 * [ros_control example in Gazebo](http://gazebosim.org/tutorials/?tut=ros_control)
 
+* [simulating real-time control using ROS topics](http://gazebosim.org/tutorials?tut=drcsim_control_sync&cat=drcsim)
+
 * [Atlas Visualization and Logging](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
 
 * [Atlas MultiSense SL Head](http://gazebosim.org/tutorials?tut=drcsim_multisense&cat=drcsim)
