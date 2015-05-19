@@ -9,6 +9,8 @@
 
 2. Go through a few beginner tutorials on ROS
     * [Navigating the ROS filesystem](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem)
+    * [Creating a ROS Package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
+    * [Building a ROS Package](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
     * [Understanding ROS Nodes](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes)
 
 ## Gazebo: 
@@ -29,10 +31,6 @@
 1.5 hours
 
 ## ROS Overview:
-
-* [Creating a ROS Package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
-
-* [Building a ROS Package](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
 
 * [Understanding ROS Nodes](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes)
 
