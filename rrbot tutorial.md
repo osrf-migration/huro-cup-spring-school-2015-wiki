@@ -1,9 +1,9 @@
-## Install the prerequisites:
+## Install prerequisites
 ~~~
 sudo apt-get install ros-indigo-gazebo4-ros-pkgs ros-indigo-gazebo4-ros-control
 ~~~
 
-## Setup workspace
+## Setup catkin workspace
 
 Create a catkin workspace for rrbot example:
 ~~~
