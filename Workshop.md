@@ -95,6 +95,8 @@
 
     * World plugins
 
+    * [Pioneer2DX Controller Example](https://bitbucket.org/osrf/huro-cup-spring-school-2015/src/cbb3cdd98f51a9fe958a341533aced404f9c4813/gazebo_tutorials/publisher/?at=default)
+
 
 # Workshop Four: 
 1.5 hours
