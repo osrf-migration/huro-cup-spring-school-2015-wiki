@@ -103,6 +103,8 @@
 
 ## Robot Control and Perception Tutorials
 
+* [DRC Simulator Installation](http://gazebosim.org/tutorials?tut=drcsim_install&cat=drcsim)
+
 * [Atlas Visualization and Logging](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
 
 * [Atlas MultiSense SL Head](http://gazebosim.org/tutorials?tut=drcsim_multisense&cat=drcsim)
