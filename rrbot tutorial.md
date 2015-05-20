@@ -11,7 +11,7 @@ mkdir ~/catkin_rrbot
 mkdir ~/catkin_rrbot/src
 ~~~
 
-Next, checkout the rrbot demo files:
+Next, checkout the RRBot demo files:
 ~~~
 cd ~/catkin_rrbot/src
 git clone -b cpp11_flags git@github.com:ros-simulation/gazebo_ros_demos.git
@@ -19,7 +19,7 @@ git clone -b cpp11_flags git@github.com:ros-simulation/gazebo_ros_demos.git
 
 ## Build example code
 
-To compile the rrbot example:
+To compile the RRBot example:
 ~~~
 cd ~/catkin_rrbot
 source /opt/ros/indigo/setup.bash
@@ -28,7 +28,7 @@ catkin_make
 
 ## Setup environment variables
 
-To run the rrbot example, setup environment variable by running:
+To run the RRBot example, setup environment variable by running:
 ~~~
 source ~/catkin_rrbot/devel/setup.bash
 ~~~
