@@ -48,3 +48,7 @@ Introduction to Gazebo
 * ROS binding (gazebo_ros_pkgs)
 
 * Examples: DRCSim, HAPTIX
+
+
+[Download Slides](
+https://docs.google.com/presentation/d/179CSbEL-KJYDfLBrfPJR1GoupVPp65v9177Qem6qayM/pub?start=false&loop=false&delayms=3000&slide=id.g75def9385_3_0)
