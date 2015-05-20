@@ -152,12 +152,17 @@ For the RRBot:
 ~~~
 
 You screen should look something like this:
-
-[[file:rqt_controller_tuning.png|800px]]
+![rqt_controller_tuning.png](https://bitbucket.org/repo/AEXg45/images/688865364-rqt_controller_tuning.png)
 
 Note: the RQT plot plugin is known to have bugs after running for a while (>1min).
 The drawings start acting strangely.
 The current solution is to press the blue refresh button at the top right of the plugin.
+
+You can also add other topics for visualization, for example:
+
+~~~
+/rrbot/joint_states/position[0]
+~~~
 
 ### Tune the PID gains
 
