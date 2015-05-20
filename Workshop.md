@@ -105,6 +105,8 @@
 
 ## Robot Control and Perception Tutorials
 
+* [ros_control example in Gazebo](http://gazebosim.org/tutorials/?tut=ros_control)
+
 * [DRC Simulator Installation](http://gazebosim.org/tutorials?tut=drcsim_install&cat=drcsim)
 
 * [Atlas Visualization and Logging](http://gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
@@ -112,8 +114,6 @@
 * [Atlas MultiSense SL Head](http://gazebosim.org/tutorials?tut=drcsim_multisense&cat=drcsim)
 
 * [simulating real-time control using ROS topics](http://gazebosim.org/tutorials?tut=drcsim_control_sync&cat=drcsim)
-
-* [ros_control example in Gazebo](http://gazebosim.org/tutorials/?tut=ros_control)
 
 
 Useful resources:
