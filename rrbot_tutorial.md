@@ -173,7 +173,7 @@ Assuming your controller uses PID, you should use a "pid" option.
 Clicking on it should reveal 5 sliders that let you tune the controller, as pictured in the following screenshot.
 Adjust these values until you get the desired performance of your controller.
 
-[[file:rqt_dynamnic_reconfigure_pid.png|600px]]
+![rqt_dynamnic_reconfigure_pid.png](https://bitbucket.org/repo/AEXg45/images/1224248050-rqt_dynamnic_reconfigure_pid.png)
 
 ### Use roslaunch to save your RQT perspective
 
