@@ -101,6 +101,8 @@
 # Workshop Four: 
 1.5 hours
 
+[slides](https://docs.google.com/presentation/d/1uxzdjZ1omM3YTCup-YpudYKPVvj2Be25Oy9aR2KXOfE/pub?start=false&loop=false&delayms=3000)
+
 ## Robot Control and Perception Tutorials
 
 * [DRC Simulator Installation](http://gazebosim.org/tutorials?tut=drcsim_install&cat=drcsim)
