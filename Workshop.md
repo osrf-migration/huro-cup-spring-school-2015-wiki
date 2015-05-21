@@ -64,8 +64,6 @@
 
 * [Build a Robot](http://gazebosim.org/tutorials?cat=build_robot)
 
-    * Make a model
-
     * Make a mobile robot
 
     * Attach Meshes
