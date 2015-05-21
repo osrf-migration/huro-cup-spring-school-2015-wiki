@@ -56,7 +56,18 @@ source ~/catkin_drcsim/install/share/drcsim/setup.sh
 Test with:
 
 ~~~
+roslaunch drcsim_gazebo atlas.launch
+~~~
+
+You can try start Atlas with different configurations, for example Atlas with Sandia hands installed:
+
+~~~
 roslaunch drcsim_gazebo atlas.launch hand_suffix:="_sandia_hands"
 ~~~
 
-The robot should spawn and fall over without the Boston Dynamics controller enabled.
+or
+
+~~~
+roslaunch drcsim_gazebo atlas.launch model_args:="_v5" hand_suffix:="_sandia_hands"
+~~~
+Note for Atlas V5, the robot should spawn and fall over without the Boston Dynamics controller enabled.
