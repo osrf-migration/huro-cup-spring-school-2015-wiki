@@ -1,4 +1,6 @@
 # Workshop One: Installation
+-----
+
 1.5 hours
 
 [slides](https://docs.google.com/presentation/d/11lGD6uAPP99MJjmIi4xNZttSWrp2B0VA8WCzVBGzGYA/pub?start=false&loop=false&delayms=3000)
@@ -30,6 +32,8 @@
 
 
 # Workshop Two: ROS Basics
+-----
+
 1.5 hours
 
 [slides](https://docs.google.com/presentation/d/1eUbZzaI7sbNKgSB0fHGkhU-1QI1SmivpC7dt_CHcE5w/pub?start=false&loop=false&delayms=3000)
@@ -62,6 +66,8 @@
 
 
 # Workshop Three: Gazebo
+-----
+
 1 hour
 
 ## Introduction to Gazebo Simulator
@@ -100,7 +106,9 @@
     * [Pioneer2DX Controller Example](https://bitbucket.org/osrf/huro-cup-spring-school-2015/src/cbb3cdd98f51a9fe958a341533aced404f9c4813/gazebo_tutorials/publisher/?at=default)
 
 
-# Workshop Four: 
+# Workshop Four:
+-----
+
 1.5 hours
 
 [slides](https://docs.google.com/presentation/d/1uxzdjZ1omM3YTCup-YpudYKPVvj2Be25Oy9aR2KXOfE/pub?start=false&loop=false&delayms=3000)
