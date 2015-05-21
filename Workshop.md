@@ -1,6 +1,8 @@
 # Workshop One: Installation
 1.5 hours
 
+[slides](https://docs.google.com/presentation/d/11lGD6uAPP99MJjmIi4xNZttSWrp2B0VA8WCzVBGzGYA/pub?start=false&loop=false&delayms=3000)
+
 ## ROS: 
 
 1. Installation:
@@ -29,6 +31,8 @@
 
 # Workshop Two: ROS Basics
 1.5 hours
+
+[slides](https://docs.google.com/presentation/d/1eUbZzaI7sbNKgSB0fHGkhU-1QI1SmivpC7dt_CHcE5w/pub?start=false&loop=false&delayms=3000)
 
 ## ROS Overview:
 
