@@ -52,3 +52,10 @@ To run the drcsim example, setup environment variable by running:
 source ~/catkin_drcsim/install/setup.bash
 ~~~
 
+Test with:
+
+~~~
+roslaunch drcsim_gazebo atlas.launch model_args:="_v5" hand_suffix:="_sandia_hands"
+~~~
+
+The robot should spawn and fall over without the Boston Dynamics controller enabled.
