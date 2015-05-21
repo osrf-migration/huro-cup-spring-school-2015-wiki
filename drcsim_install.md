@@ -2,6 +2,13 @@
 
 [gazebo5 is preferred](http://gazebosim.org/tutorials?tut=install_ubuntu&ver=5.0&cat=install).
 
+
+Install osrf-messages and sandia-hands
+
+~~~
+sudo apt-get install osrf-common sandia-hand
+~~~
+
 ## Setup catkin workspace
 
 Create a catkin workspace for drcsim:
@@ -22,6 +29,11 @@ or alternatively checkout code from bitbucket (Warning: may take a long time):
 ~~~
 cd ~/catkin_drcsim/src
 hg clone ssh://hg@bitbucket.org/osrf/drcsim -b drcsim_4.2
+~~~
+
+Checkout gazebo_ros_pkgs from source:
+~~~
+git clone git@github.com:ros-simulation/gazebo_ros_pkgs
 ~~~
 
 ## Build drcsim code
