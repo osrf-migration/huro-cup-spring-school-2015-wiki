@@ -56,7 +56,7 @@ source ~/catkin_drcsim/install/share/drcsim/setup.sh
 Test with:
 
 ~~~
-roslaunch drcsim_gazebo atlas.launch model_args:="_v5" hand_suffix:="_sandia_hands"
+roslaunch drcsim_gazebo atlas.launch hand_suffix:="_sandia_hands"
 ~~~
 
 The robot should spawn and fall over without the Boston Dynamics controller enabled.
