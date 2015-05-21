@@ -1,10 +1,12 @@
 ## Install prerequisites
-~~~
-sudo apt-get install ros-indigo-gazebo4-ros-pkgs ros-indigo-gazebo4-ros-control
-~~~
-or if you have gazebo5 installed,do below:
+If you have gazebo5 installed,do below:
 ~~~
 sudo apt-get install ros-indigo-gazebo5-ros-pkgs ros-indigo-gazebo5-ros-control
+~~~
+
+Or alternatively, for other versions of gazebo:
+~~~
+sudo apt-get install ros-indigo-gazebo4-ros-pkgs ros-indigo-gazebo4-ros-control
 ~~~
 
 ## Setup catkin workspace
