@@ -36,7 +36,7 @@
 
 1.5 hours
 
-[slides](https://docs.google.com/presentation/d/1eUbZzaI7sbNKgSB0fHGkhU-1QI1SmivpC7dt_CHcE5w/pub?start=false&loop=false&delayms=3000)
+[workshop two and three slides](https://docs.google.com/presentation/d/1eUbZzaI7sbNKgSB0fHGkhU-1QI1SmivpC7dt_CHcE5w/pub?start=false&loop=false&delayms=3000)
 
 ## ROS Overview:
 
@@ -69,6 +69,8 @@
 -----
 
 1 hour
+
+[workshop two and three slides](https://docs.google.com/presentation/d/1eUbZzaI7sbNKgSB0fHGkhU-1QI1SmivpC7dt_CHcE5w/pub?start=false&loop=false&delayms=3000)
 
 ## Introduction to Gazebo Simulator
 
