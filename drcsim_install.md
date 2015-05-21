@@ -33,7 +33,7 @@ hg clone ssh://hg@bitbucket.org/osrf/drcsim -b drcsim_4.2
 
 Checkout gazebo_ros_pkgs from source:
 ~~~
-git clone git@github.com:ros-simulation/gazebo_ros_pkgs
+git clone -b indigo-devel git@github.com:ros-simulation/gazebo_ros_pkgs
 ~~~
 
 ## Build drcsim code
