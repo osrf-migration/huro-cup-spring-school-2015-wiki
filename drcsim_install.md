@@ -17,7 +17,7 @@ mkdir ~/catkin_drcsim
 mkdir ~/catkin_drcsim/src
 ~~~
 
-Next, [download drcsim_4.2.zip](https://app.box.com/files/0/f/0/1/f_30396417153).
+Next, [follow this link to download drcsim_4.2.zip tarball](https://app.box.com/files/0/f/0/1/f_30396417153).
 
 ~~~
 cd ~/catkin_drcsim/src
