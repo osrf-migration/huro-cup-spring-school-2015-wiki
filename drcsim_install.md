@@ -50,6 +50,7 @@ catkin_make install
 To run the drcsim example, setup environment variable by running:
 ~~~
 source ~/catkin_drcsim/install/setup.bash
+source ~/catkin_drcsim/install/share/drcsim/setup.sh
 ~~~
 
 Test with:
